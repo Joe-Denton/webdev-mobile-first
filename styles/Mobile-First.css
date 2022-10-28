@@ -24,3 +24,10 @@ header h1 a {
     color: #fff;
     text-decoration: none;
 }
+nav ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
