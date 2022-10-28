@@ -17,3 +17,10 @@ main, footer {
 header{
     background-color: #263248;
 }
+header h1 {
+    margin: 0;
+}
+header h1 a {
+    color: #fff;
+    text-decoration: none;
+}
