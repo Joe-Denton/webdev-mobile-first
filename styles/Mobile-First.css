@@ -41,3 +41,7 @@ nav ul li a {
     color:#fff;
     padding: 8px 0;
 }
+.resize-img {
+    width: 100%;
+    height: auto;
+}
