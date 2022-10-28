@@ -13,3 +13,7 @@ container {
 main, footer {
     padding:0 15px;
 }
+
+#logo {
+    text-align: center;
+}
