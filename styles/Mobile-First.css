@@ -5,3 +5,11 @@ body {
     padding: 0;
     background-color:#ffe4c4;
 }
+
+container {
+    width: 100%;
+}
+
+main, footer {
+    padding:0 15px;
+}
